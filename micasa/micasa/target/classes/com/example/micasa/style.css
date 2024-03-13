@@ -1,0 +1,24 @@
+/* styles.css */
+
+/* Style for buttons */
+.button {
+    -fx-background-color: sliver; /* Black button background color */
+    -fx-text-fill: white; /* White text color for buttons */
+}
+
+/* Style for scene */
+.root {
+    -fx-background-color: #9c9c9c; /* Light blue background color for the scene */
+
+}
+
+/* Style for panes */
+.car-pane {
+    -fx-background-color: #F0F8FF; /* Light blue background color for the panes */
+}
+
+/* Layout for buttons */
+.button-box {
+    -fx-spacing: 20px; /* Spacing between buttons */
+    -fx-alignment: center; /* Align buttons to the center */
+}
